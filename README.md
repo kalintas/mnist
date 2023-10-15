@@ -1,1 +1,1 @@
-( ͡° ͜ʖ ͡°)
+A simple app for displaying guess of the neural network that is trained with the [mnist data](https://en.wikipedia.org/wiki/MNIST_database?useskin=vector)  in real-time.
